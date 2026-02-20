@@ -1,6 +1,7 @@
 <?php
 
 function TipeDataFloatingPoint () {
+echo "Tipe data floating point \n";
 echo "Floating Point: ";
 var_dump (1.234);
 echo "Floating Point dengan E notation Plus (1.2 x 1000): ";
