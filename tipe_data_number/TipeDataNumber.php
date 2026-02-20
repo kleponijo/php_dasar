@@ -20,4 +20,7 @@ var_dump (1_234_567);
 
 echo "Floating point";
 var_dump (1.234);
+
+echo "Floating point dengan E notation";
+var_dump (1.234);
 } 
